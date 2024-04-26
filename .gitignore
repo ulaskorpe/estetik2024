@@ -1,0 +1,18 @@
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore environment-specific files
+.env
+.env.*
+
+ 
+# Ignore compiled files
+/vendor
+
+
+# Ignore logs and other generated files
+/storage
+ 
+# Ignore package-lock.json for npm
+ 
